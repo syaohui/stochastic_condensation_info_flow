@@ -8,7 +8,7 @@ Data repository for:
 
 ## Overview
 
-This repository provides the **summary data** needed to reproduce all figures in the paper. Raw per-droplet simulation data (~10–20 GB per case) is excluded and can be regenerated from the model code.
+This repository provides the **summary data** needed to reproduce all figures in the paper. Raw per-droplet simulation data (~5–10 GB per case) is excluded and can be regenerated from the model code.
 
 The study presents Monte Carlo simulations for two stochastic condensation models:
 
@@ -45,12 +45,12 @@ The full simulation and analysis code is available upon reasonable request from 
 
 | Symbol | Value | Unit | Description |
 |--------|-------|------|-------------|
-| *N*_c | 1.0 × 10² | cm⁻³ | Droplet number concentration |
-| ρ_w | 1.0 | g cm⁻³ | Liquid water density |
-| *k* | 167.8 | μm² s⁻¹ | Condensational growth rate coefficient |
-| σ_S | 0.01 | — | Std dev of saturation ratio fluctuation |
-| *r*₀ | 10 | μm | Initial monodisperse droplet radius |
-| *N* | 100 000 | — | Number of Monte Carlo droplets |
+| $*N*_c$ | 1.0 × 10² | cm⁻³ | Droplet number concentration |
+| $ρ_w$ | 1.0 | g cm⁻³ | Liquid water density |
+| $*k*$ | 167.8 | μm² s⁻¹ | Condensational growth rate coefficient |
+| $σ_S$ | 0.01 | — | Std dev of saturation ratio fluctuation |
+| $*r*_0$ | 10 | μm | Initial monodisperse droplet radius |
+| $*N*$ | 100 000 | — | Number of Monte Carlo droplets |
 
 ## Figures Reproduced from This Data
 
