@@ -45,12 +45,12 @@ The full simulation and analysis code is available upon reasonable request from 
 
 | Symbol | Value | Unit | Description |
 |--------|-------|------|-------------|
-| $*N*_c$ | 1.0 × 10² | cm⁻³ | Droplet number concentration |
-| $ρ_w$ | 1.0 | g cm⁻³ | Liquid water density |
-| $*k*$ | 167.8 | μm² s⁻¹ | Condensational growth rate coefficient |
-| $σ_S$ | 0.01 | — | Std dev of saturation ratio fluctuation |
-| $*r*_0$ | 10 | μm | Initial monodisperse droplet radius |
-| $*N*$ | 100 000 | — | Number of Monte Carlo droplets |
+| N<sub>c</sub> | 1.0 × 10² | cm⁻³ | Droplet number concentration |
+| ρ<sub>w</sub> | 1.0 | g cm⁻³ | Liquid water density |
+| k | 167.8 | μm² s⁻¹ | Condensational growth rate coefficient |
+| σ<sub>S</sub> | 0.01 | — | Std dev of saturation ratio fluctuation |
+| r<sub>0</sub> | 10 | μm | Initial monodisperse droplet radius |
+| N | 100000 | — | Number of Monte Carlo droplets |
 
 ## Figures Reproduced from This Data
 
