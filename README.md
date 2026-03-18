@@ -24,8 +24,8 @@ Only summary `.npz` files are tracked here. Raw data files (`*_raw.npz`) are exc
 ```
 ├── config.py                        # Physical constants & simulation parameters
 ├── run_simulation.py                # Model 1 & Model 2 simulations (per γ value)
-├── run_gamma_sweep.py               # γ sweep for Fig. 3
-├── run_sigmaS_sweep.py              # σ_S sweep for Fig. 4
+├── run_gamma_sweep.py               # γ sweep for Fig. 2
+├── run_sigmaS_sweep.py              # σ_S sweep for Fig. 3
 ├── information_flow.py              # Liang information-flow estimators (Eqs. 8–10)
 ├── plot_figures.py                  # Generate all paper figures from summary data
 ├── requirements.txt
