@@ -1,7 +1,7 @@
 """
-run_sigmaS_sweep.py — Sweep σ_S from 0.001 to 0.02 (Fig. 4 of the paper).
+run_sigmaS_sweep.py — Sweep σ_S from 0.001 to 0.02 (Fig. 3 of the paper).
 
-Runs at two γ values (0.3 and 8.0) to produce both panels of Fig. 4.
+Runs at two γ values (0.3 and 8.0) to produce both panels of Fig. 3.
 Also records steady-state start times for Fig. S4.
 
 Usage
