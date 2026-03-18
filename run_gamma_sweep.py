@@ -1,5 +1,5 @@
 """
-run_gamma_sweep.py — Sweep γ from 0.3 to 8.0 (Fig. 3 of the paper).
+run_gamma_sweep.py — Sweep γ from 0.3 to 8.0 (Fig. 2 of the paper).
 
 For each γ, runs both Model 1 and Model 2 for 15 000 steps and records
 the relative-dispersion history.  The steady-state RD is computed in
