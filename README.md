@@ -56,17 +56,16 @@ The full simulation and analysis code is available upon reasonable request from 
 
 | File | Paper Figure | Description |
 |------|-------------|-------------|
-| `fig1.png` | Fig. 1 | Droplet size distribution heatmaps (Time [s]) |
-| `fig2.png` | Fig. 2 top | Mean/std/ε/β vs time (γ = 0.3 s⁻¹)(γ = 8.0 s⁻¹) |
-| `fig3.png` | Fig. 3 | Steady-state ε vs γ |
-| `fig4.png` | Fig. 4 | Steady-state ε vs σ_S |
-| `fig5.png` | Fig. 5 | Information flow vs time |
-| `fig6.png` | Fig. 6 | Information flow vs relative dispersion |
-| `figS1.png` | Fig. S1 | Heatmaps (normalized time) |
-| `figS2.png` | Fig. S2 | Statistics (normalized time) |
+| `fig1.png` | Fig. 1 | Mean/std/ε/β vs time (γ = 0.3 s⁻¹)(γ = 8.0 s⁻¹) |
+| `fig2.png` | Fig. 2 | Steady-state ε vs γ |
+| `fig3.png` | Fig. 3 | Steady-state ε vs σ_S |
+| `fig4.png` | Fig. 4 | Information flow vs time & Information flow vs relative dispersion|
+| `figS1.png` | Fig. S1 | Statistics (normalized time) |
+| `figS2.png` | Fig. S2 | Steady-state size distributions |
 | `figS3.png` | Fig. S3 | Steady-state start time vs σ_S |
-| `figS4.png` | Fig. S4 | Steady-state size distributions |
-| `figS5.png` | Fig. S5 | Analytical information flow with γ limits |
+| `figS4.png` | Fig. S4 | Droplet size distribution heatmaps (Time [s]) |
+| `figS5.png` | Fig. S5 | Heatmaps (normalized time) |
+| `figS6.png` | Fig. S6 | Analytical information flow with γ limits |
 
 
 ## Data Availability
