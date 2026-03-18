@@ -34,12 +34,9 @@ Only summary `.npz` files are tracked here. Raw data files (`*_raw.npz`) are exc
 ├── .gitignore
 └── README.md
 ```
+## Code Availability
 
-## Model Code Availability
-
-The full simulation and analysis code is available upon reasonable request from the corresponding authors.
-
-**Contact:** [Yaohui Shu] — [yaohui.shu@stonybrook.edu] or [Yangang Liu] — [lyg@bnl.gov]
+The full simulation and analysis code is included in this repository.
 
 ## Physical Parameters
 
