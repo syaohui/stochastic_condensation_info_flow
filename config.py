@@ -3,7 +3,7 @@ config.py — Shared physical constants and simulation parameters.
 
 References
 ----------
-Shu et al. (2025), "Stochastic Condensation with Information Flow
+Shu et al. (2026), "Stochastic Condensation with Information Flow
 for Causality Analysis", Geophys. Res. Lett.
 
 McGraw & Liu (2006), "Brownian drift-diffusion model for evolution of
