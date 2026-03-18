@@ -18,7 +18,7 @@ The *full raw* files are optional / local-only (10–20 GB each).
 
 References
 ----------
-Shu et al. (2025), GRL;  McGraw & Liu (2006), GRL.
+Shu et al. (2026), GRL;  McGraw & Liu (2006), GRL.
 """
 
 import argparse
