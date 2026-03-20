@@ -1,6 +1,6 @@
 # Stochastic Condensation with Information Flow for Causality Analysis
 
-*DOI will be assigned upon publication.*
+[https://doi.org/10.5281/zenodo.19135207]
 
 Data repository for:
 
@@ -76,8 +76,7 @@ The full simulation and analysis code is included in this repository.
 
 
 ## Data Availability
-
-Raw data files will be archived on Zenodo upon publication.
+The summary data required to reproduce all figures is archived on Zenodo at https://doi.org/10.5281/zenodo.19135207 (v1.0).
 
 ## References
 
@@ -86,7 +85,7 @@ Raw data files will be archived on Zenodo upon publication.
 
 ## License
 
-[To be decided]
+MIT License. See LICENSE for details.
 
 ## Acknowledgments
 
