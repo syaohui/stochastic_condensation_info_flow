@@ -8,8 +8,6 @@ Data repository for:
 
 ## Overview
 
-This repository provides the **summary data** needed to reproduce all figures in the paper. Raw per-droplet simulation data (~5–10 GB per case) is excluded and can be regenerated from the model code.
-
 The study presents Monte Carlo simulations for two stochastic condensation models:
 
 - **Model 1** (McGraw & Liu, 2006): Brownian drift–diffusion model where the saturation ratio fluctuation is treated as white noise.
