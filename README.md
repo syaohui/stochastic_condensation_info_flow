@@ -1,6 +1,6 @@
 # Stochastic Condensation with Information Flow for Causality Analysis
 
-[https://doi.org/10.5281/zenodo.20790155]
+The data is archived on Zenodo at [https://doi.org/10.5281/zenodo.20790155]
 
 Data repository for:
 
