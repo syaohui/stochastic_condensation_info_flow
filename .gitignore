@@ -1,17 +1,14 @@
-# Exclude large raw simulation data
-data/gamma0.3/model1_gamma0.3_raw.npz
-data/gamma0.3/model2_gamma0.3_raw.npz
-data/gamma8.0/model1_gamma8.0_raw.npz
-data/gamma8.0/model2_gamma8.0_raw.npz
-
-# Exclude all raw files by pattern (safety net)
-data/**/*_raw.npz
+# Simulation data (archived on Zenodo, not in git)
+*.npz
+*.npy
+data/
 
 # Python
 __pycache__/
 *.py[cod]
 *.egg-info/
 .env
+.ipynb_checkpoints/
 
 # OS
 .DS_Store
